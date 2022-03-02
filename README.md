@@ -1,2 +1,2 @@
-# -gua-para-todos
+# Água-para-todos
 Conforme a evolução tecnológica as empresas sentem a necessidade, e, de certa forma, obrigação, de se adaptarem a tais mudanças. Até o momento, a Cagepa não possui um aplicativo em que a população possa utilizar de certas funcionalidades como acompanhar a liberação de água, previsão de falta d'água, consulta ao consumo mensal e mesmo o suporte por parte da empresa. Desta forma, consideramos essa ideia como também uma forma para que a Cagepa reduza o consumo de papel, dado que seria possível consultar sua própria fatura no aplicativo – além de poupar a população de possíveis dores de cabeça caso suas faturas por algum motivo não cheguem às suas respectivas residências.
