@@ -1,9 +1,9 @@
-# Água para todos
+# cidade_limpa
 
-## Motivação
+Motivação
+	 	 	 	
+  Nem todas as cidades possuem uma organização adequada quando se diz respeito ao descarte de lixo. Consequentemente, é comum que o descarte seja feito nas ruas, esgotos e até mesmo fontes naturais de água, como rios, lagos e especialmente praias, com a ação da maré sobre a areia. Desta forma, pensamos na criação de um aplicativo que ofereça à população o ensinamento e a localização de como e onde descartar corretamente o lixo, oferecendo a localização das lixeiras mais próximas, evitando assim que alagamentos por bueiros entupidos nas cidades ocorram.
 
-  Conforme a evolução tecnológica as empresas sentem a necessidade, e, de certa forma, obrigação, de se adaptarem a tais mudanças. Até o momento, a Cagepa não possui um aplicativo em que a população possa utilizar de certas funcionalidades como acompanhar a liberação de água, previsão de falta d'água, consulta ao consumo mensal e mesmo o suporte por parte da empresa. Desta forma, consideramos essa ideia como também uma forma para que a Cagepa reduza o consumo de papel, dado que seria possível consultar sua própria fatura no aplicativo – além de poupar a população de possíveis dores de cabeça caso suas faturas por algum motivo não cheguem às suas respectivas residências.
+Descrição do Projeto
 
-## Descrição do Projeto
-
-  Desenvolvimento de um aplicativo web/mobile para que a população possa gerenciar e acompanhar informações a respeito da liberação de água para setores da cidade, previsões de falta d'água, alerta de notificações a respeito de manutenções em seu setor e acesso a um resumo de consumo de água em R$ ou litros, atendimento ao cliente por chat, consulta de faturas.
+	Desenvolvimento de um aplicativo mobile para permitir que a população consiga buscar a maneira ideal de descarte de produtos a partir do nome e ideias de reciclagem para vários produtos. O usuário também teria acesso a todas as localizações das lixeiras comuns e seletivas da região, ajudando-o a realizar um descarte de lixo consciente.
