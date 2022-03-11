@@ -2,8 +2,8 @@
 
 ## Motivação
 	 	 	 	
-  Nem todas as cidades possuem uma organização adequada quando se diz respeito ao descarte de lixo. Consequentemente, é comum que o descarte seja feito nas ruas, esgotos e até mesmo fontes naturais de água, como rios, lagos e especialmente praias, com a ação da maré sobre a areia. Desta forma, pensamos na criação de um aplicativo que ofereça à população o ensinamento e a localização de como e onde descartar corretamente o lixo, oferecendo a localização das lixeiras mais próximas, evitando assim que alagamentos por bueiros entupidos nas cidades ocorram.
+  Nem todas as cidades possuem uma organização adequada quando se diz respeito ao descarte de lixo. Consequentemente, é comum que seja feito nas ruas, esgotos e até mesmo fontes naturais de água, como rios, lagos e especialmente praias, onde a ação da maré sobre a areia o carrega para o mar. Desta forma, pensamos na criação de um aplicativo que ofereça à população a localização onde seja possível o descarte correto, disponibilizando não somente onde se encontram as lixeiras mais próximas mas também o privilégio de poder sugeri-las em locais em que há maior necessidade.
 
 ## Descrição do Projeto
 
-  Desenvolvimento de um aplicativo mobile para permitir que a população consiga buscar a maneira ideal de descarte de produtos a partir do nome e ideias de reciclagem para vários produtos. O usuário também teria acesso a todas as localizações das lixeiras comuns e seletivas da região, ajudando-o a realizar um descarte de lixo consciente.
+  Desenvolvimento de um aplicativo mobile para permitir que a população consiga acessar pontos de coleta de resíduos. O usuário também poderia sugerir a instalação de pontos de coleta e denunciar um local onde haja maior concentração de lixo.
