@@ -6,4 +6,4 @@
 
 ## Descrição do Projeto
 
-  Desenvolvimento de um aplicativo mobile para permitir que a população consiga acessar pontos de coleta de resíduos. O usuário também poderia sugerir a instalação de pontos de coleta e denunciar um local onde haja maior concentração de lixo.
+  Desenvolvimento de um aplicativo mobile para permitir que a população consiga acessar pontos de coleta de resíduos. O usuário também pode sugerir a instalação de pontos de coleta e denunciar um local onde haja uma preocupante concentração de lixo.
