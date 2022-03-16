@@ -8,7 +8,7 @@
 
   Desenvolvimento de um aplicativo mobile para permitir que a população consiga acessar pontos de coleta de resíduos. O usuário também pode sugerir a instalação de pontos de coleta e denunciar um local onde haja uma preocupante concentração de lixo.
 
-##Requisitos funcionais
+## Requisitos funcionais
 	
 O cidadão pode se cadastrar no sistema;
 O cidadão pode logar no sistema;
@@ -26,7 +26,7 @@ O admin pode atualizar funcionários de prefeituras no sistema;
 O admin pode excluir funcionários de prefeituras no sistema; 
 O admin pode logar no sistema;
 
-##Requisitos não funcionais
+## Requisitos não funcionais
 
 O sistema pode ser acessado via app mobile;
 O sistema irá necessitar de conexão de internet por parte do usuário para fazer atualizações dos dados;
