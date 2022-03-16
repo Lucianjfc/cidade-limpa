@@ -10,7 +10,7 @@
 
 ## Requisitos funcionais
 	
-O cidadão pode se cadastrar no sistema;;<br/>
+O cidadão pode se cadastrar no sistema;<br/>
 O cidadão pode logar no sistema;<br/>
 O cidadão pode atualizar cadastro no sistema;<br/>
 O cidadão consegue visualizar a localização de pontos de coleta de resíduos de todos os tipos;<br/>
